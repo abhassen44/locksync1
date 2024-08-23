@@ -1,0 +1,15 @@
+
+@media (max-width: 1024px) {
+    /* Tablet view adjustments */
+    .sec-right iframe{
+        width: 95vw;
+        height: 30vh;
+  
+  }
+}
+  
+  @media (max-width: 768px) {
+    /* Mobile view adjustments */
+  
+    
+  }
